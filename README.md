@@ -1,2 +1,1 @@
-# mlproject
-my summer ml project
+# multiple-disease-prediction-project
